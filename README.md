@@ -5,8 +5,8 @@ languages:
 products:
 - azure
 extensions:
-- services: Cosmos-DB
-- platforms: dotnet
+  services: Cosmos-DB
+  platforms: dotnet
 ---
 
 # Create a CosmosDB and get MongoDB connection string using C# #
