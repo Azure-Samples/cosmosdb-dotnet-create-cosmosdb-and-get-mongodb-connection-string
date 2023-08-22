@@ -10,8 +10,6 @@ using Azure.ResourceManager.Resources;
 using Azure.ResourceManager;
 using Azure.ResourceManager.CosmosDB.Models;
 using Azure.ResourceManager.CosmosDB;
-using Microsoft.Azure.Documents.Client;
-using Microsoft.Azure.Documents;
 
 namespace CosmosDBWithKindMongoDB
 {
