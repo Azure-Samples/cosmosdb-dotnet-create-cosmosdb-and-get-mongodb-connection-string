@@ -9,12 +9,12 @@ extensions:
   platforms: dotnet
 ---
 
-# Create a CosmosDB and get MongoDB connection string using C# #
+# Create a Cosmos DB and get MongoDB connection string using C# #
 
- Azure CosmosDB sample -
-  - Create a CosmosDB configured with MongoDB kind.
+ Azure Cosmos DB sample -
+  - Create a Cosmos DB configured with MongoDB kind.
   - Get the mongodb connection string
-  - Delete the CosmosDB.
+  - Delete the Cosmos DB.
 
 
 ## Running this Sample ##
